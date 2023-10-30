@@ -5,7 +5,7 @@ Empresa: Abstergo Industries
 Responsável: Vincius Baldochi Cardoso
 
 # Introdução
-Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries , realizado por Romario Santos. O objetivo do projeto foi elencar 3 medidas de segurança em conjunto dos serviços da AWS, com a finalidade de realizar aumentar a segurança na empresa.
+Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries , realizado por Vinicius Baldochi Cardoso. O objetivo do projeto foi elencar 3 medidas de segurança em conjunto dos serviços da AWS, com a finalidade de realizar aumentar a segurança na empresa.
 
 # Descrição do Projeto
 O projeto de implementação de ferramentas foi dividido em 3 medidas de segurança. A seguir, serão descritas as etapas da implementação:
